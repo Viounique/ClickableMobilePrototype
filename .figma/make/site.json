@@ -1,0 +1,10 @@
+{
+  "description": "This mobile-sized web application offers an interactive prototype for users to explore and test app functionalities, enhancing user experience and feedback.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
